@@ -1,4 +1,4 @@
-package com.ko.starter.ebean
+package com.ko.core.ebean
 
 import io.ebean.Model
 import io.ebean.annotation.*

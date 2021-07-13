@@ -1,4 +1,4 @@
-package com.ko.dto
+package com.ko.core.dto
 import java.io.Serializable
 
 interface VO

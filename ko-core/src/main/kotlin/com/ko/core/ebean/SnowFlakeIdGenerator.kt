@@ -1,6 +1,5 @@
-package com.ko.starter.ebean
+package com.ko.core.ebean
 
-import com.ko.starter.ebean.SnowFlake
 import io.ebean.config.IdGenerator
 
 class SnowFlakeIdGenerator : IdGenerator{
